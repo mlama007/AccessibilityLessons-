@@ -169,6 +169,6 @@ h6, .h6 {
 }
 
 .modal {
-  display: block;
+  display: none;
   left: 9999px;
 }
